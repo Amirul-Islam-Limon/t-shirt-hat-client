@@ -1,0 +1,22 @@
+.login-container{
+    display:flex;
+    height: 30px;
+}
+.login-button{
+    width: 233px;
+    height: 42px;
+    background-color: green;
+    border: 0px;
+    width: 299px;
+    border-radius: 33px;
+    color: white;
+    padding:9px;
+    margin-top:200px;
+}
+.login-area{
+    width:20%;
+    margin: 0 auto;
+}
+.login-text{
+    margin-left: 50px;
+}

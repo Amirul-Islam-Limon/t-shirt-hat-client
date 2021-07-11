@@ -1,0 +1,14 @@
+.product-image-title img{
+    width:100%;
+}
+.product-price-buy-now-btn{
+    color: green;
+    margin-bottom:15px;
+}
+.product-price-buy-now-btn button{
+    color:white;
+    background-color:green;
+    padding: 7px 15px;
+    border: 0px;
+    border-radius:7px;
+}

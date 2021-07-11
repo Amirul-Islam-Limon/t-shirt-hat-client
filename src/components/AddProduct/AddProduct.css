@@ -1,0 +1,73 @@
+.dashboard{
+   display:flex;
+} 
+.menu{
+    width:25%;
+    background-color:rgb(63, 97, 66);
+    height: 100vh;
+    text-align: center;
+    color: white;
+}
+.content{
+    width:75%;
+    background-color:rgb(218, 238, 218);
+    height: 100vh;
+}
+.menu-item{
+    text-align: left;
+    margin-top: 40px;
+    margin-left: 100px;
+    cursor: pointer;
+}
+.menu-item h5{
+    line-height: 65px;
+}
+.content-item{
+    margin-left: 50px;
+    margin-top:40px;
+    margin-right: 50px;
+}
+.product-input-field-1,.product-input-field-2{
+    width:50%;
+    padding:25px;
+}
+.content-item label{
+    display: block;
+}
+.form-container{
+    display:flex;
+    margin-top:80px;
+    background-color:rgb(211, 209, 209);
+    border-radius: 7px;
+}
+.content-item input{
+    width:100%;
+    height:35px;
+    border-radius:7px;
+    border:1px solid white;
+}
+.upload-file{
+    border: 1px solid gray;
+    padding: 4px;
+    background-color:rgb(63, 97, 66);
+    border-radius: 7px;
+    cursor: pointer;
+    color: white;
+}
+#add-photo{
+    margin-bottom:10px;
+    margin-top:10px;
+}
+.save-button{
+    text-align:end;
+}
+.save-button button{
+    padding:4px 25px;
+    color: White;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color:rgb(63, 97, 66);
+}
+.menu-item a{
+    color: black;
+}

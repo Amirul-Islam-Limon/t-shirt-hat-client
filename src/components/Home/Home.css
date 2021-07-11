@@ -1,0 +1,48 @@
+.home{
+    background-color:whitesmoke;
+    height: 220px;
+}
+.nav-menu nav{
+    display: flex;
+    list-style: none;
+}
+.nav-menu li{
+    padding: 8px;
+    margin: 15px;
+
+}
+.nav-menu a{
+    color: black;
+    font-size: 20px;
+    text-decoration: none;
+}
+.home-button{
+    background-color:green;
+    /* padding:10px 20px; */
+    border-radius:7px;
+    color:white;
+}
+.home-button a{
+    padding:20px;
+    color: white;
+}
+.search-bar{
+    text-align:center;
+}
+.search-bar button{
+    width:81px;
+    height: 39px;
+    background-color:green;
+    border:0px;
+    border-radius: 0px 5px 5px 0px;
+}
+.search-bar input{
+    height: 38px;
+    width: 294px;
+    border:0;
+    background-color:rgb(201, 200, 197);
+    padding-left:7px;
+}
+.search-bar{
+    margin-top: 60px;
+}
